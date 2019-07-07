@@ -1,11 +1,15 @@
 {
   "name": "@claritycodeweb/tiny",
   "version": "1.0.0",
-  "description": "tiny npm module",
+  "description": "Removes all spaces from a string",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "author": "@rafal",
+  "license": "ISC",
+  "repository": "claritycodeweb/tiny",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "claritycodeweb"
+  ]
 }
